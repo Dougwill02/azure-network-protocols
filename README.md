@@ -1,6 +1,5 @@
 # azure-network-protocols
-
-<h2>Environments and Technologies Used</h2>
+<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/><h2>Environments and Technologies Used</h2>
 <ul>
     <li>Microsoft Azure (Virtual Machines/Compute)</li>
     <li>Remote Desktop</li>
